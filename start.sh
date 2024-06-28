@@ -20,4 +20,8 @@ echo $TXT
 echo "servers:" >> $PWD/openapi.yml
 echo $TXT >> $PWD/openapi.yml
 
+openapi-generator-cli generate -g html2 -i openapi.yml
+
+open ./index.html
+
 python3 api_flask.py &

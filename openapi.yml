@@ -105,7 +105,5 @@ paths:
                           type: number
                           minimum: -180.0
                           maximum: 180.0
-                          description: Object's longitude.
-                          example: 5.46923031509709
 servers:
-- url: https://b77c-2a02-8440-b217-ff76-4144-54ec-a87d-b1a1.ngrok-free.app
+- url: https://edfc-2a02-8440-b217-ff76-4144-54ec-a87d-b1a1.ngrok-free.app

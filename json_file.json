@@ -1,0 +1,161 @@
+{
+    "infos_utilisateur": {
+        "nom": "John Doe",
+        "ma_lat": "48.75",
+        "ma_lon": "-102.54",
+        "ip_address": "77.136.67.160",
+        "hostname": "maxime-latitude7480"
+    },
+    "objects": [
+        {
+            "name": "LODGE HÔTEL DU DOMAINE DE SOMMEDIEUE",
+            "lat": "49.088441929231",
+            "lon": "5.46923031509709"
+        },
+        {
+            "name": "HÔTEL RESTAURANT LA VALLÉE DE L'AIRE",
+            "lat": "48.9275184506124",
+            "lon": "5.25486523013308"
+        },
+        {
+            "name": "HÔTEL RESTAURANT LA SIRÈNE",
+            "lat": "49.2099087992573",
+            "lon": "5.6365657350708"
+        },
+        {
+            "name": "AUBERGE D'HÉVILLIERS",
+            "lat": "48.6011225",
+            "lon": "5.3313087"
+        },
+        {
+            "name": "HÔTEL RESTAURANT DU LAC DE MADINE",
+            "lat": "48.9319955895777",
+            "lon": "5.69557987997052"
+        },
+        {
+            "name": "HÔTEL RESTAURANT LA TABLE DES BONS PÈRES",
+            "lat": "48.869288",
+            "lon": "5.517626"
+        },
+        {
+            "name": "HÔTEL RESTAURANT LA CLOCHE D'OR",
+            "lat": "49.163167970854",
+            "lon": "5.38452923297882"
+        },
+        {
+            "name": "HÔTEL-RESTAURANT L'AUBERGE DE MARVILLE",
+            "lat": "49.4532086283294",
+            "lon": "5.45861264546716"
+        },
+        {
+            "name": "HÔTEL LE RELAIS RENAISSANCE",
+            "lat": "49.4527273867175",
+            "lon": "5.45707305749261"
+        },
+        {
+            "name": "HÔTEL RESTAURANT LES PORTES DE MEUSE",
+            "lat": "48.6822330734695",
+            "lon": "5.74265912055967"
+        },
+        {
+            "name": "HÔTEL RESTAURANT BERTRAND",
+            "lat": "48.7725425",
+            "lon": "5.17533909999997"
+        },
+        {
+            "name": "HÔTEL RESTAURANT DU PARC",
+            "lat": "49.1020843",
+            "lon": "5.38473380000005"
+        },
+        {
+            "name": "HÔTEL RESTAURANT DE LA GARE",
+            "lat": "48.7411268386903",
+            "lon": "5.03409997790982"
+        },
+        {
+            "name": "HÔTEL RESTAURANT LE RELAIS DE LA VOIE SACRÉE",
+            "lat": "48.9701793451792",
+            "lon": "5.28737224075314"
+        },
+        {
+            "name": "HÔTEL RESTAURANT LA MADELEINE",
+            "lat": "48.7533519298187",
+            "lon": "5.59913935322572"
+        },
+        {
+            "name": "HÔTEL LES JARDINS DU MESS",
+            "lat": "49.161067451198",
+            "lon": "5.38730405700835"
+        },
+        {
+            "name": "HOTEL RESTAURANT LE RELAIS",
+            "lat": "49.2222795498062",
+            "lon": "5.36194683657753"
+        },
+        {
+            "name": "HÔTEL RESTAURANT LE BEL AIR",
+            "lat": "49.4541777168111",
+            "lon": "5.45399414623262"
+        },
+        {
+            "name": "HÔTEL RESTAURANT LES ORCHIDÉES",
+            "lat": "49.1650700900088",
+            "lon": "5.41959390625152"
+        },
+        {
+            "name": "AUBERGE DU CANAL",
+            "lat": "48.5500577274991",
+            "lon": "5.47976878314205"
+        },
+        {
+            "name": "HÔTEL RESTAURANT LES ÉPICES CURIENS",
+            "lat": "49.5245736440598",
+            "lon": "5.45661554760409"
+        },
+        {
+            "name": "HOTEL RESTAURANT LE CENTRAL",
+            "lat": "48.513357511187",
+            "lon": "5.50616972883608"
+        },
+        {
+            "name": "HÔTEL RESTAURANT LE PROVENÇAL",
+            "lat": "48.749493",
+            "lon": "5.62438099999997"
+        },
+        {
+            "name": "HOSTELLERIE DU CHÂTEAU DES MONTHAIRONS",
+            "lat": "49.05964",
+            "lon": "5.40796"
+        },
+        {
+            "name": "HÔTEL RESTAURANT LE GRAND MONARQUE",
+            "lat": "49.2277",
+            "lon": "5.0356"
+        },
+        {
+            "name": "HÔTEL RESTAURANT BELLEVUE",
+            "lat": "48.7429",
+            "lon": "5.2075"
+        },
+        {
+            "name": "AUBERGE DU CHAUDRON FLEURI",
+            "lat": "48.9458184943519",
+            "lon": "5.51883154763118"
+        },
+        {
+            "name": "HÔTEL RESTAURANT DU BINDEUIL",
+            "lat": "48.4881292555985",
+            "lon": "5.35486587823652"
+        },
+        {
+            "name": "HÔTEL-RESTAURANT VILLA MOTEL",
+            "lat": "49.4830102",
+            "lon": "5.20161159999998"
+        },
+        {
+            "name": "HÔTEL RESTAURANT LE PRIVILÈGE",
+            "lat": "49.1399071150108",
+            "lon": "5.4105213888855"
+        }
+    ]
+}
