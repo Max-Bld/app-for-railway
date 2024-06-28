@@ -178,6 +178,7 @@ def main():
     visualize_data(queried_data, latitude_user, longitude_user, perimetre_user, query_element)
     st.divider()
     st.write('Developers API: https://ephemeral-macaron-04d954.netlify.app/')
+    st.write('API endpoint (ne marche pas): https://successful-warmth-production.up.railway.app/?query_element=Hotel&nom=Maxime&ma_lat=5.2&ma_lon=4.32&file=false')
 
 if __name__ == "__main__":
     main()
