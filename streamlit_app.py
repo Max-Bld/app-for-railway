@@ -161,7 +161,7 @@ def visualize_data(data, latitude_user, longitude_user, perimetre_user, query_el
 
 # Chargement des données RDF
 data = Graph()
-data.parse("C:/Users/khadi/Documents/Datascientest 2023-2024/2023-2024/Projet geo tourisme/dst_projet_tourisme/data/flux-19287-202401180748.ttl")
+data.parse("https://storage.googleapis.com/dst-tourisme-bucket/flux-19287-202401180748.ttl", format='text/turtle')
 
 # Début de l'application Streamlit
 def main():
