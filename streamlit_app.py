@@ -176,6 +176,8 @@ def main():
     computed_data = distances_euclidiennes(latitude_user, longitude_user, queried_data)
     
     visualize_data(queried_data, latitude_user, longitude_user, perimetre_user, query_element)
+    st.divider()
+    st.write('Developers API: https://ephemeral-macaron-04d954.netlify.app/')
 
 if __name__ == "__main__":
     main()
