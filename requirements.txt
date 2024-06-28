@@ -1,8 +1,0 @@
-flask
-rdflib
-requests
-folium
-streamlit_folium
-geopy
-pyroutelib3
-numpy
